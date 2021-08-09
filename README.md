@@ -16,7 +16,7 @@ Comecei a estudar programação com foco no desenvolvimento em jogos, na qual ti
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 
 <div>
-  <a href="https://github.com/joaotuliojt">
+  <a href="https://github.com/KinoDerToten">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaotuliojt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaotuliojt&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
