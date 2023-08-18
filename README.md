@@ -29,6 +29,13 @@ Amo de aprender e compartilhar e espero um dia fazer parte do grupo das pessoas 
 </div>
  
  ##
+
+ ## Principais Projetos
+ [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=KinoDerToten&repo=To-Do-List-Angular&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/KinoDerToten/To-Do-List-Angular)
+ [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=KinoDerToten&repo=calculadora-angular&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/KinoDerToten/calculadora-angular)
+
+ ## Minhas Contribuições
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=KinoDerToten&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/KinoDerToten/dio-lab-open-source)
  
 ### Contato:
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rodrigo-silva-79169b198/)
